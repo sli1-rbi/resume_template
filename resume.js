@@ -25,4 +25,4 @@ emailContainer.textContent = data.email;
 const linkedinContainer = document.querySelector("#linkedin");
 linkedinContainer.textContent = `https://www.linkedin.com/in/${data.linkedin}`;
 const githubContainer = document.querySelector("#github");
-githubContainer.textContent = `github.com/${data.gitHandle}`;
+githubContainer.textContent += data.gitHandle;
