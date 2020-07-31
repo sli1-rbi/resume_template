@@ -10,7 +10,7 @@ const data = {
   gitHandle: "sli1-rbi",
   workExperiences: [
     {
-      emoji: "☕️"
+      emoji: "☕️",
       jobTitle: "Senior Manager, Team TBD",
       institution: "Restaurant Brands International",
       dates: "2020 - Present", // end with "present" for your current job
@@ -19,7 +19,7 @@ const data = {
       ]
     },
     {
-      emoji: "☕️"
+      emoji: "☕️",
       jobTitle: "MBA Intern, Development Canada, Tim Hortons",
       institution: "Restaurant Brands International",
       dates: "Summer 2019", // end with "present" for your current job
@@ -30,7 +30,7 @@ const data = {
       ]
     },
     {
-      emoji: "📡"
+      emoji: "📡",
       jobTitle: "Senior Business Analyst, Investment & Program Management",
       institution: "TELUS Communications",
       dates: "2017 - 2018", // end with "present" for your current job
@@ -41,7 +41,7 @@ const data = {
       ]
     },
     {
-      moji: "📡"
+      emoji: "📡",
       jobTitle: "Business Analyst I & II, Graduate Engineering Leadership Program",
       institution: "TELUS Communications",
       dates: "2014 - 2017", // end with "present" for your current job
@@ -55,7 +55,7 @@ const data = {
       ]
     },
     {
-      emoji: "🕸"
+      emoji: "🕸",
       jobTitle: "Web Developer / IT",
       institution: "Papillon Ribbon & Bow Inc.",
       dates: "2013 - 2014", // end with "present" for your current job
@@ -66,7 +66,7 @@ const data = {
   ],
   educationalExperiences: [
     {
-      emoji: "💸"
+      emoji: "💸",
       university: "New York University",
       school: "Leonard N. Stern School of Business",
       dates: "2018 - 2020",
@@ -76,7 +76,7 @@ const data = {
       ]
     },
     {
-      emoji: "⚙️"
+      emoji: "⚙️",
       university: "McGill University",
       school: "Faculty of Engineering",
       dates: "2008 - 2013",
